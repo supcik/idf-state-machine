@@ -1,0 +1,3 @@
+dependencies:
+  state_machine:
+    override_path: "../../../"
